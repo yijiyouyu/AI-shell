@@ -32,7 +32,6 @@ logs/
 .ai_shell_history
 
 # Project specific
-pictures/
 test/
 *.tar.gz
 
